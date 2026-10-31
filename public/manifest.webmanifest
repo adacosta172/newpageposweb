@@ -1,0 +1,16 @@
+{
+  "name": "NewPage Office — POS & Production",
+  "short_name": "NewPage Office",
+  "description": "Printing jobs, POS, sales and customer orders for NewPage I.T Koncept",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f8f6",
+  "theme_color": "#103c30",
+  "lang": "en-GH",
+  "icons": [
+    {"src":"/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
